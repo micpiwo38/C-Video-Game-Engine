@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Mic\\Programmation\\Projets_C\u002B\u002B\\thatgamesguy\\thatgamesguy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3E5966-FE07-4473-B940-2633C733268C}|thatgamesguy.vcxproj|C:\\Mic\\Programmation\\Projets_C\u002B\u002B\\thatgamesguy\\thatgamesguy\\C_KeyboardMovement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CD3E5966-FE07-4473-B940-2633C733268C}|thatgamesguy.vcxproj|solutionrelative:C_KeyboardMovement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3E5966-FE07-4473-B940-2633C733268C}|thatgamesguy.vcxproj|C:\\Mic\\Programmation\\Projets_C\u002B\u002B\\thatgamesguy\\thatgamesguy\\SceneGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CD3E5966-FE07-4473-B940-2633C733268C}|thatgamesguy.vcxproj|solutionrelative:SceneGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3E5966-FE07-4473-B940-2633C733268C}|thatgamesguy.vcxproj|C:\\Mic\\Programmation\\Projets_C\u002B\u002B\\thatgamesguy\\thatgamesguy\\C_KeyboardMovement.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CD3E5966-FE07-4473-B940-2633C733268C}|thatgamesguy.vcxproj|solutionrelative:C_KeyboardMovement.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD3E5966-FE07-4473-B940-2633C733268C}|thatgamesguy.vcxproj|C:\\Mic\\Programmation\\Projets_C\u002B\u002B\\thatgamesguy\\thatgamesguy\\SceneGame.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CD3E5966-FE07-4473-B940-2633C733268C}|thatgamesguy.vcxproj|solutionrelative:SceneGame.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "C_KeyboardMovement.cpp",
+              "DocumentMoniker": "C:\\Mic\\Programmation\\Projets_C\u002B\u002B\\thatgamesguy\\thatgamesguy\\C_KeyboardMovement.cpp",
+              "RelativeDocumentMoniker": "C_KeyboardMovement.cpp",
+              "ToolTip": "C:\\Mic\\Programmation\\Projets_C\u002B\u002B\\thatgamesguy\\thatgamesguy\\C_KeyboardMovement.cpp",
+              "RelativeToolTip": "C_KeyboardMovement.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-03T11:28:25.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "C_KeyboardMovement.hpp",
+              "DocumentMoniker": "C:\\Mic\\Programmation\\Projets_C\u002B\u002B\\thatgamesguy\\thatgamesguy\\C_KeyboardMovement.hpp",
+              "RelativeDocumentMoniker": "C_KeyboardMovement.hpp",
+              "ToolTip": "C:\\Mic\\Programmation\\Projets_C\u002B\u002B\\thatgamesguy\\thatgamesguy\\C_KeyboardMovement.hpp",
+              "RelativeToolTip": "C_KeyboardMovement.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-03T11:27:11.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SceneGame.cpp",
+              "DocumentMoniker": "C:\\Mic\\Programmation\\Projets_C\u002B\u002B\\thatgamesguy\\thatgamesguy\\SceneGame.cpp",
+              "RelativeDocumentMoniker": "SceneGame.cpp",
+              "ToolTip": "C:\\Mic\\Programmation\\Projets_C\u002B\u002B\\thatgamesguy\\thatgamesguy\\SceneGame.cpp",
+              "RelativeToolTip": "SceneGame.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-03T11:25:39.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SceneGame.hpp",
+              "DocumentMoniker": "C:\\Mic\\Programmation\\Projets_C\u002B\u002B\\thatgamesguy\\thatgamesguy\\SceneGame.hpp",
+              "RelativeDocumentMoniker": "SceneGame.hpp",
+              "ToolTip": "C:\\Mic\\Programmation\\Projets_C\u002B\u002B\\thatgamesguy\\thatgamesguy\\SceneGame.hpp",
+              "RelativeToolTip": "SceneGame.hpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-03T11:25:07.213Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
